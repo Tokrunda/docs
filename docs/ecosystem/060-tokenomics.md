@@ -35,36 +35,36 @@ By implementing robust tokenomics, crypto projects can create an ecosystem that 
 
 This shows the initial token distribution on launch date 2022/09/07:
 
-| Distribution                                     | DGNX       |
-| ------------------------------------------------ | ---------- |
-| Total supply                                     | 21,000,000 |
-| Circulating supply initially                     | 21,000,000 |
-| Traderjoexyz LP                                  | 1,250,000  |
-| Pangolin Exchange LP                             | 1,250,000  |
-| Private Sale                                     | 3,333,334  |
-| [Marketing Multi Sig Wallet](https://google.com) | 398,645    |
-| [Locker](https://google.com)                     | 3,507,745  |
-| [Legacy Disburser](https://google.com)           | 11,260,276 |
+| Distribution                                                                                          | DGNX       |
+| ----------------------------------------------------------------------------------------------------- | ---------- |
+| Total supply                                                                                          | 21,000,000 |
+| Circulating supply initially                                                                          | 21,000,000 |
+| Traderjoexyz LP                                                                                       | 1,250,000  |
+| Pangolin Exchange LP                                                                                  | 1,250,000  |
+| Private Sale                                                                                          | 3,333,334  |
+| [Marketing Multi Sig Wallet](https://snowtrace.io/address/0x16eF18E42A7d72E52E9B213D7eABA269B90A4643) | 398,645    |
+| [Locker](https://snowtrace.io/address/0x2c7d8bb6aba4fff56cddbf9ea47ed270a10098f7)                     | 3,507,745  |
+| [Legacy Disburser](0x8a0E3264Da08bf999AfF5a50AabF5d2dc89fab79)                                        | 11,260,276 |
 
 ## Taxes & Fees
 
 ### 8% on Buys
 
-| % of value | Purpose                                 |
-| ---------- | --------------------------------------- |
-| 4%         | [Liquidity Backing](https://google.com) |
-| 1%         | [Liquidity Booster](https://google.com) |
-| 1%         | [Marketing](https://google.com)         |
-| 2%         | [Development](https://google.com)       |
+| % of value | Purpose                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------- |
+| 4%         | [Liquidity Backing](0x62320b483C422112DE64f3F621A3f57B993029C9)                                   |
+| 1%         | Liquidity Booster                                                                                 |
+| 1%         | [Marketing](https://snowtrace.io/address/0x16eF18E42A7d72E52E9B213D7eABA269B90A4643)              |
+| 2%         | [Platform & Development](https://snowtrace.io/address/0xca01a9d36f47561f03226b6b697b14b9274b1b10) |
 
 ### 8% on Sells
 
-| % of value | Purpose                                 |
-| ---------- | --------------------------------------- |
-| 4%         | [Liquidity Backing](https://google.com) |
-| 1%         | [Liquidity Booster](https://google.com) |
-| 1%         | Burned                                  |
-| 2%         | [Development](https://google.com)       |
+| % of value | Purpose                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------- |
+| 4%         | [Liquidity Backing](0x62320b483C422112DE64f3F621A3f57B993029C9)                                   |
+| 1%         | Liquidity Booster                                                                                 |
+| 1%         | Burned                                                                                            |
+| 2%         | [Platform & Development](https://snowtrace.io/address/0xca01a9d36f47561f03226b6b697b14b9274b1b10) |
 
 ## Changelog
 

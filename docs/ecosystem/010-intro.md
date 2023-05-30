@@ -33,7 +33,9 @@ DGNX is deployed on the Avalanche C-Chain with a maximum supply of 21,000,000 th
 
 ## DAO
 
-_work in progress..._
+At the heart of our organization beats a vibrant and robust DAO, fueled by the power of proposals. These proposals are the lifeblood of our decision-making process, giving you a direct say in the trajectory of our collective journey.
+
+Imagine having the power to influence outcomes and contribute to the growth and success of our project. As an investor, you hold the key to unlock this potential. By holding DGNX tokens, you not only gain financial benefits but also a voice that resonates within our community.
 
 ## MVPs
 
@@ -63,7 +65,9 @@ The team around DegenX consists mainly of like-minded people who have the same i
 
 ## Partners
 
-_work in progress_
+:::info
+Discover limitless possibilities and unlock unparalleled success with our visionary team! We are continuously exploring dynamic opportunities and fostering synergies between groundbreaking projects. Embrace the power of collaboration and partner with us today to embark on an extraordinary journey. Our innovative products are meticulously crafted to perfectly complement your project, ensuring optimal utilization and unprecedented results. Don't miss out on this golden chance to amplify your success - get in touch with us through [Telegram](https://t.me/DegenXportal), [Twitter](https://twitter.com/DegenEcosystem) or [Discord](https://discord.gg/BMaVtEVkgC)!
+:::
 
 ## Wallets
 
@@ -76,7 +80,6 @@ Our list of multi signature wallets with their purpose. All wallets are whitelis
 | Marketing | [`0x16eF18E42A7d72E52E9B213D7eABA269B90A4643`](https://snowtrace.io/address/0x16eF18E42A7d72E52E9B213D7eABA269B90A4643) |
 | Backing   | [`0x31CE1540414361cFf99e83a05e4ad6d35D425202`](https://snowtrace.io/address/0x31CE1540414361cFf99e83a05e4ad6d35D425202) |
 | Platform  | [`0xcA01A9d36F47561F03226B6b697B14B9274b1B10`](https://snowtrace.io/address/0xcA01A9d36F47561F03226B6b697B14B9274b1B10) |
-| Developer | [`0xdF090f6675034Fde637031c6590FD1bBeBc4fa45`](https://snowtrace.io/address/0xdF090f6675034Fde637031c6590FD1bBeBc4fa45) |
 
 ### Signers
 
@@ -88,3 +91,9 @@ Our list of multi signature wallets with their purpose. All wallets are whitelis
 | @Weizenstar     | `0xf013574Bbc5f3f578B7b7eC79F30Cd8C283d8Fd7` |
 | @Bomba_one      | `0x2B76c4931F7aB8a1b4b45E4440B5852eF15ABf10` |
 | @tokrunda       | `0x2b79738c27186E52dBEF6C491852f065ee136C33` |
+
+### Developer Wallet
+
+|           | Address                                                                                                                 |
+| --------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Developer | [`0xdF090f6675034Fde637031c6590FD1bBeBc4fa45`](https://snowtrace.io/address/0xdF090f6675034Fde637031c6590FD1bBeBc4fa45) |

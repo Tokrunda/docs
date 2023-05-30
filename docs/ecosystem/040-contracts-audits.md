@@ -15,6 +15,7 @@ sidebar_position: 40
 | Governor           | [0xbdA8dcEB22b0e06Ad612f339C41539Ea2ddCCEf8](https://snowtrace.io/address/0xbdA8dcEB22b0e06Ad612f339C41539Ea2ddCCEf8) |
 | TimelockController | [0xC07017739f09778ccea0468dA7b8381f1967Eb95](https://snowtrace.io/address/0xC07017739f09778ccea0468dA7b8381f1967Eb95) |
 | Legacy Disburser   | [0x8a0E3264Da08bf999AfF5a50AabF5d2dc89fab79](https://snowtrace.io/address/0x8a0E3264Da08bf999AfF5a50AabF5d2dc89fab79) |
+| Liquidity Backing  | [0x62320b483C422112DE64f3F621A3f57B993029C9](https://snowtrace.io/address/0x62320b483C422112DE64f3F621A3f57B993029C9) |
 
 ## Audits
 

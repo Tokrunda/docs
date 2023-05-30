@@ -1,51 +1,58 @@
-import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.scss';
+import React from "react";
+import clsx from "clsx";
+import styles from "./styles.module.scss";
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  image: string;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: "Secure and Profitable DeFi Ecosystem",
+    image: require("@site/static/img/security.png").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Explore a secure and profitable DeFi ecosystem that prioritizes the
+        safety of your assets while offering lucrative investment opportunities.
+        Benefit from robust security measures, transparent operations, and a
+        solid foundation for long-term growth.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: "Growth Oriented and Innovative Tokenomics",
+    image: require("@site/static/img/innovative.png").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Discover our innovative tokenomics designed to drive growth and maximize
+        returns for investors. With an ever-increasing floor price and carefully
+        crafted mechanisms, our ecosystem creates a strong foundation for
+        sustainable value appreciation and long-term profitability.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: "Cutting-Edge DeFi Solutions",
+    image: require("@site/static/img/solutions.png").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Experience the power of cutting-edge DeFi solutions at your fingertips.
+        Unlock a range of state-of-the-art utilities and platforms, including a
+        multichain ecosystem, liquidity backing mechanisms, and advanced
+        features that enhance your DeFi journey and open doors to new
+        possibilities.
       </>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({ title, image, description }: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx("col col--4")}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={image} title={title} role="img" height={200} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
