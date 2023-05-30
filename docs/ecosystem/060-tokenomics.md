@@ -52,7 +52,7 @@ This shows the initial token distribution on launch date 2022/09/07:
 
 | % of value | Purpose                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------- |
-| 4%         | [Liquidity Backing](0x62320b483C422112DE64f3F621A3f57B993029C9)                                   |
+| 4%         | [Liquidity Backing](https://snowtrace.io/address/0x62320b483c422112de64f3f621a3f57b993029c9)                                   |
 | 1%         | Liquidity Booster                                                                                 |
 | 1%         | [Marketing](https://snowtrace.io/address/0x16eF18E42A7d72E52E9B213D7eABA269B90A4643)              |
 | 2%         | [Platform & Development](https://snowtrace.io/address/0xca01a9d36f47561f03226b6b697b14b9274b1b10) |
@@ -61,7 +61,7 @@ This shows the initial token distribution on launch date 2022/09/07:
 
 | % of value | Purpose                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------- |
-| 4%         | [Liquidity Backing](0x62320b483C422112DE64f3F621A3f57B993029C9)                                   |
+| 4%         | [Liquidity Backing](https://snowtrace.io/address/0x62320b483c422112de64f3f621a3f57b993029c9)                                   |
 | 1%         | Liquidity Booster                                                                                 |
 | 1%         | Burned                                                                                            |
 | 2%         | [Platform & Development](https://snowtrace.io/address/0xca01a9d36f47561f03226b6b697b14b9274b1b10) |
