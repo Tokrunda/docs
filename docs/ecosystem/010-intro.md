@@ -17,7 +17,7 @@ Experience the dynamic future of DegenX as we unleash a groundbreaking array of 
 
 ### What is DegenX?
 
-We are a community driven project currently operating on the Avalanche C-Chain. Started as a Smart DeFi Token in the FEG ecosystem, the project evolved due to an exploit to an independent fully **D**ecentralized **A**utonomous **O**rganization (DAO) led project.
+We are a community-driven project on the Avalanche C-Chain. What started as a fun project has evolved into an independent **D**ecentralized **A**utonomous **O**rganization (DAO) led initiative. Join us as we work together to shape the future of DeFi and empower everyone in the crypto space. Together, we're making a difference.
 
 DegenX therefore stands for the ecosystem which aims to be fully decentralized and seeing their investors as true project owners than just some random investors. With that in mind all features which are by the way custom coded by DegenX developers and audited will generate several income streams for the holders.
 
