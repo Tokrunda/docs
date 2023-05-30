@@ -44,7 +44,7 @@ This shows the initial token distribution on launch date 2022/09/07:
 | Private Sale                                                                                          | 3,333,334  |
 | [Marketing Multi Sig Wallet](https://snowtrace.io/address/0x16eF18E42A7d72E52E9B213D7eABA269B90A4643) | 398,645    |
 | [Locker](https://snowtrace.io/address/0x2c7d8bb6aba4fff56cddbf9ea47ed270a10098f7)                     | 3,507,745  |
-| [Legacy Disburser](0x8a0E3264Da08bf999AfF5a50AabF5d2dc89fab79)                                        | 11,260,276 |
+| [Legacy Disburser](https://snowtrace.io/address/0x8a0e3264da08bf999aff5a50aabf5d2dc89fab79)           | 11,260,276 |
 
 ## Taxes & Fees
 
@@ -52,7 +52,7 @@ This shows the initial token distribution on launch date 2022/09/07:
 
 | % of value | Purpose                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------- |
-| 4%         | [Liquidity Backing](https://snowtrace.io/address/0x62320b483c422112de64f3f621a3f57b993029c9)                                   |
+| 4%         | [Liquidity Backing](https://snowtrace.io/address/0x62320b483c422112de64f3f621a3f57b993029c9)      |
 | 1%         | Liquidity Booster                                                                                 |
 | 1%         | [Marketing](https://snowtrace.io/address/0x16eF18E42A7d72E52E9B213D7eABA269B90A4643)              |
 | 2%         | [Platform & Development](https://snowtrace.io/address/0xca01a9d36f47561f03226b6b697b14b9274b1b10) |
@@ -61,7 +61,7 @@ This shows the initial token distribution on launch date 2022/09/07:
 
 | % of value | Purpose                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------- |
-| 4%         | [Liquidity Backing](https://snowtrace.io/address/0x62320b483c422112de64f3f621a3f57b993029c9)                                   |
+| 4%         | [Liquidity Backing](https://snowtrace.io/address/0x62320b483c422112de64f3f621a3f57b993029c9)      |
 | 1%         | Liquidity Booster                                                                                 |
 | 1%         | Burned                                                                                            |
 | 2%         | [Platform & Development](https://snowtrace.io/address/0xca01a9d36f47561f03226b6b697b14b9274b1b10) |
