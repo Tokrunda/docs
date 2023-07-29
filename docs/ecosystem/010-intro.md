@@ -21,7 +21,7 @@ We are a community-driven project on the Avalanche C-Chain. What started as a fu
 
 DegenX therefore stands for the ecosystem which aims to be fully decentralized and seeing their investors as true project owners than just some random investors. With that in mind all features which are by the way custom coded by DegenX developers and audited will generate several income streams for the holders.
 
-### What is DGNX?
+### What is DGNX?   
 
 $DGNX - DegenX Governance token
 
@@ -39,7 +39,7 @@ Imagine having the power to influence outcomes and contribute to the growth and 
 
 ## MVPs
 
-The team around DegenX consists mainly of like-minded people who have the same interest. And that is to make the project as successful as possible.
+The team around DegenX consists mainly of like-minded people who have the same interest. And that is to make the project as successful as possible.   
 
 [Daniel](https://t.me/DegenDevDaniel)  
 [Weizenstar](https://t.me/Weizenstar)  
