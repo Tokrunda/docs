@@ -48,26 +48,29 @@ This shows the initial token distribution on launch date 2022/09/07:
 
 ## Taxes & Fees
 
-### 8% on Buys
+### 5% on Buys
 
 | % of value | Purpose                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------- |
-| 4%         | [Liquidity Backing](https://snowtrace.io/address/0x62320b483c422112de64f3f621a3f57b993029c9)      |
-| 1%         | Liquidity Booster                                                                                 |
+| 3%         | [Liquidity Backing](https://snowtrace.io/address/0x62320b483c422112de64f3f621a3f57b993029c9)      |
 | 1%         | [Marketing](https://snowtrace.io/address/0x16eF18E42A7d72E52E9B213D7eABA269B90A4643)              |
-| 2%         | [Platform & Development](https://snowtrace.io/address/0xca01a9d36f47561f03226b6b697b14b9274b1b10) |
+| 1%         | [Platform & Development](https://snowtrace.io/address/0xca01a9d36f47561f03226b6b697b14b9274b1b10) |
 
-### 8% on Sells
+### 5% on Sells
 
 | % of value | Purpose                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------- |
-| 4%         | [Liquidity Backing](https://snowtrace.io/address/0x62320b483c422112de64f3f621a3f57b993029c9)      |
-| 1%         | Liquidity Booster                                                                                 |
+| 3%         | [Liquidity Backing](https://snowtrace.io/address/0x62320b483c422112de64f3f621a3f57b993029c9)      |
 | 1%         | Burned                                                                                            |
-| 2%         | [Platform & Development](https://snowtrace.io/address/0xca01a9d36f47561f03226b6b697b14b9274b1b10) |
+| 1%         | [Platform & Development](https://snowtrace.io/address/0xca01a9d36f47561f03226b6b697b14b9274b1b10) |
 
 ## Changelog
 
 ### Update 2023/04/12
 
 Based on the proposal https://www.tally.xyz/gov/degenx-ecosystem/proposal/104468752109228514209240409810949964507309874928153354767285517485402747406118 the DAO executed an update of the Liquidity Booster Tax from 3% to 1%. This results in a total buy and sell tax of 8%.
+
+  
+### Update 2023/08/17
+
+Based on the [proposal](https://www.tally.xyz/gov/degenx-ecosystem/proposal/14933487591271326806476884136306163781812739651057943493071349656595033143343) the DAO executed an update of the Liquidity Backing Tax Tax from 4% to 3% and the update of the Platform&Development Tax from 2% to 1%. This results in a total buy and sell tax of 5%.
