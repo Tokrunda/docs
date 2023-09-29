@@ -1,5 +1,5 @@
 ---
-id: BroccoliSwap
+title: BroccoliSwap
 sidebar_position: 3
 ---
 
